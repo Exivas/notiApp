@@ -1,0 +1,15 @@
+com.example.notiapp-jetified-window-java-1.0.0-beta04-0 C:\Users\erick\.gradle\caches\transforms-3\2a215381204751055df81b6269e717b7\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.notiapp-lifecycle-runtime-2.3.1-1 C:\Users\erick\.gradle\caches\transforms-3\82112359ef27c86626e392f5169dc84a\transformed\lifecycle-runtime-2.3.1\res
+com.example.notiapp-core-1.10.1-2 C:\Users\erick\.gradle\caches\transforms-3\a3842a17fe7307c5bcdac869078c73a0\transformed\core-1.10.1\res
+com.example.notiapp-jetified-annotation-experimental-1.3.0-3 C:\Users\erick\.gradle\caches\transforms-3\cf1dbdbeca5961b0be70c71293909f9a\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.notiapp-jetified-window-1.0.0-beta04-4 C:\Users\erick\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\res
+com.example.notiapp-browser-1.5.0-5 C:\Users\erick\.gradle\caches\transforms-3\fe539880c5099955febb99e965e706e5\transformed\browser-1.5.0\res
+com.example.notiapp-main-6 C:\Users\erick\Desktop\proyectos\notiApp\android\app\src\main\res
+com.example.notiapp-release-7 C:\Users\erick\Desktop\proyectos\notiApp\android\app\src\release\res
+com.example.notiapp-pngs-8 C:\Users\erick\Desktop\proyectos\notiApp\build\app\generated\res\pngs\release
+com.example.notiapp-resValues-9 C:\Users\erick\Desktop\proyectos\notiApp\build\app\generated\res\resValues\release
+com.example.notiapp-rs-10 C:\Users\erick\Desktop\proyectos\notiApp\build\app\generated\res\rs\release
+com.example.notiapp-mergeReleaseResources-11 C:\Users\erick\Desktop\proyectos\notiApp\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.notiapp-mergeReleaseResources-12 C:\Users\erick\Desktop\proyectos\notiApp\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.notiapp-merged_res-13 C:\Users\erick\Desktop\proyectos\notiApp\build\app\intermediates\merged_res\release
+com.example.notiapp-packaged_res-14 C:\Users\erick\Desktop\proyectos\notiApp\build\url_launcher_android\intermediates\packaged_res\release
